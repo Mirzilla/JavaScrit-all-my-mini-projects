@@ -1,0 +1,3 @@
+&& - And True && true = true; true && false = false; fakse && false = false. 
+|| - Or True || true = true; true || false = true; false || false = false.
+! - Not !true = false; !false = true;
