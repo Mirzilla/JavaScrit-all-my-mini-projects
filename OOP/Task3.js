@@ -38,3 +38,7 @@ tesla.break();
 tesla.break();
 tesla.break();
 tesla.accelerate();
+tesla.accelerate();
+tesla.accelerate();
+tesla.accelerate();
+tesla.accelerate();
